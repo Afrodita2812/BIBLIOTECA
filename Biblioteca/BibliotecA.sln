@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaidiW.API", "NaidiW.API\NaidiW.API.csproj", "{ADEE79CE-4500-47C1-8646-2B75770A13B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca.API", "Biblioteca.API\Biblioteca.API.csproj", "{3603A35F-6B30-4D07-9849-75BB3AEFBD5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaidiW.Business", "NaidiW.Business\NaidiW.Business.csproj", "{A8897DC4-2F43-4BF8-A2C7-DF4B1471892B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADEE79CE-4500-47C1-8646-2B75770A13B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADEE79CE-4500-47C1-8646-2B75770A13B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADEE79CE-4500-47C1-8646-2B75770A13B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADEE79CE-4500-47C1-8646-2B75770A13B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3603A35F-6B30-4D07-9849-75BB3AEFBD5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3603A35F-6B30-4D07-9849-75BB3AEFBD5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3603A35F-6B30-4D07-9849-75BB3AEFBD5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3603A35F-6B30-4D07-9849-75BB3AEFBD5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8897DC4-2F43-4BF8-A2C7-DF4B1471892B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8897DC4-2F43-4BF8-A2C7-DF4B1471892B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8897DC4-2F43-4BF8-A2C7-DF4B1471892B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8897DC4-2F43-4BF8-A2C7-DF4B1471892B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
